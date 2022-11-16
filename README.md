@@ -99,16 +99,8 @@ $ rspec ./spec/#{filename}_spec.rb
 
 👤 **Brian Nyachae** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
 
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/brian-nyachae/)
-
-- AngelList: [![AngelList Badge](https://img.shields.io/badge/-mavericks--db-white?logo=AngelList&logoColor=000000&style=plastic)](https://angel.co/u/brian-nyachae)
-
-- GitHub: [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/Bria222)
-
-- Twitter: [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/briannyachae9)
-
-
-- Gmail: [![Gmail Badge](https://img.shields.io/badge/-balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:techconsultants.bree@gmail.com)
+- GitHub: [@Bria222](https://github.com/Bria222)
+- LinkedIn: [Brian (mr bree) nyachae](https://www.linkedin.com/in/brian-nyachae/)
 
 ## 🤝 Contributing
 
