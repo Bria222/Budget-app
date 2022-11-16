@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.describe Category, type: :model do
   subject do
-    user = User.create(name: 'brian')
+    user = User.create(name: 'Charles')
     payment = Payment.create(name: 'Burger', author_id: user.id, amount: 100)
     Category.new(author_id: user.id, payment_id: payment.id, name: 'Foods', icon: 'burger.jpg')
   end
