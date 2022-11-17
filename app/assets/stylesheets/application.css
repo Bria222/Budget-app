@@ -1,7 +1,6 @@
 /* Unfortunately the proxima nova font is not available for free */
 
-*
-{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -12,46 +11,38 @@
   color: #434b54;
 }
 
-.bg-pri
-{
+.bg-pri {
   background: #3778c2 !important;
 }
 
-.bg-sec
-{
+.bg-sec {
   background: #5fb523 !important;
 }
 
 h1,
 h2,
 h3,
-h4
-{
+h4 {
   font-weight: 500;
 }
 
-a
-{
+a {
   color: #252f3a !important;
 }
 
-main > section
-{
+main>section {
   min-height: 70vh;
 }
 
-ul
-{
+ul {
   list-style-type: none;
   padding: 0 !important;
 }
 
 /* add responsive css */
 
-@media only screen and (max-width: 600px)
-{
-  .custom-card
-  {
+@media only screen and (max-width: 600px) {
+  .custom-card {
     width: 18rem !important;
   }
 }
