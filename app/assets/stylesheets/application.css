@@ -28,7 +28,7 @@ a {
   color: #252f3a !important;
 }
 
-main > section {
+main>section {
   min-height: 70vh;
 }
 
@@ -42,10 +42,10 @@ ul {
 
 @media only screen and (max-width: 600px) {
 
-.custom-card{
+  .custom-card {
 
-  width: 18rem !important;
-}
+    width: 18rem !important;
+  }
 
 
 }
