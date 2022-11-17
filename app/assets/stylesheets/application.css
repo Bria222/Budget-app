@@ -36,3 +36,16 @@ ul {
   list-style-type: none;
   padding: 0 !important;
 }
+
+
+/* add responsive css */
+
+@media only screen and (max-width: 600px) {
+
+.custom-card{
+
+  width: 18rem !important;
+}
+
+
+}
